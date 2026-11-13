@@ -1,0 +1,12 @@
+{
+  "name": "campus-event-portal",
+  "version": "1.0.0",
+  "description": "Milestone 2 Backend Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
